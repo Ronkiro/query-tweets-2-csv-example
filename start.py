@@ -12,7 +12,7 @@ subqueries=[
   "politica brasileira",
   "(#politica #brasil)",
   "STF",
-  "(Bolsonaro Lula)"
+  "(Bolsonaro Lula)",
   "(supremo Brasil)"
 ]
 cycle_limit=500000
