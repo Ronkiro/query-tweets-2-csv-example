@@ -1,0 +1,5 @@
+env
+tweets.csv
+tweets - 1.csv
+__pycache__
+*.pyc
